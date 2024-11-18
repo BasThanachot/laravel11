@@ -1,1 +1,1 @@
-<h3>Demo Component</h3>
+<h3>Demo Components</h3>
